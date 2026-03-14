@@ -1,16 +1,33 @@
-# nex_news
+# NexNews AI 🌐
+A Premium AI-powered News Application that brings global headlines with smart summaries and voice insights.
 
-A new Flutter project.
+## ✨ Experience the Vibe (Light vs Dark)
+<p align="center">
+  <img src="8.jpg" width="100%" alt="Dark and Light Mode Comparison" />
+</p>
 
-## Getting Started
+## 🔍 Key App Modules
+<p align="center">
+  <img src="2.jpg" width="32%" alt="AI Analysis" />
+  <img src="5.jpg" width="32%" alt="Settings UI" />
+  <img src="3.jpg" width="32%" alt="Search & Categories" />
+</p>
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Why NexNews AI?
+- **🧠 AI Summary:** One-tap AI insights for busy readers using Gemini/GPT logic.
+- **🔊 Voice Headlines:** Listen to the news while you commute with built-in TTS.
+- **⚡ Pro UI/UX:** Shimmer effects for loading states and fluid transitions.
+- **🌗 Theme Flexible:** Fully optimized for both Dark and Light modes.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tech Stack
+- **Framework:** Flutter (Dart)
+- **API:** NewsAPI
+- **State Management:** Local State / Stateful UI
+- **Design:** Canva Custom Mockups
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ⚙️ Installation
+1. Clone: `git clone https://github.com/haseeb0123/nex_news_ai.git`
+2. Packages: `flutter pub get`
+3. Run: `flutter run`
